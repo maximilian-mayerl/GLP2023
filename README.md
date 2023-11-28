@@ -4,6 +4,7 @@ Dieses Repository enthält Musterlösungen etc. zu den diversen Übungsaufgaben 
 ## Übungsaufgaben aus den Foliensätzen
 
 * [Foliensatz 1: Imperative und Prozedurale Programmierung](Übungsaufgaben/Foliensatz1.md)
+* [Foliensatz 2: Objektorientierte Programmierung (Teil 1)](Übungsaufgaben/Foliensatz2.md)
 
 ## Aufgabenblätter
 

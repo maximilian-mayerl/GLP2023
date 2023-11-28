@@ -1,7 +1,7 @@
 # Foliensatz 1
 Im Folgenden finden Sie die Musterlösungen für die Übungsaufgaben aus dem ersten Foliensatz, `Imperative und Prozedurale Programmierung`
 
-## Übungs 1 - Hello, C#!
+## Übung 1 - Hello, C#!
 
 > Erstellen Sie ein neues Projekt in Visual Studio und implementieren Sie Ihr eigenes Hello, World!. Geben Sie dabei den Text "Hello, C#!" aus.
 
@@ -163,6 +163,44 @@ class Program {
         Console.WriteLine($"otherNumbers == {GetArrayString(otherNumbers)}");
         Console.WriteLine($"allNumbers == {GetArrayString(allNumbers)}");
 
+    }
+}
+```
+
+## Übung 8 - Overloading
+
+> Schreiben Sie eine - oder mehrere - Methoden, um den Durchschnittswert der Zahlen in einem Array zu berechnen. Das Ganze soll sowohl für int-Arrays wie auch für double-Arrays funktionieren.
+
+```csharp
+using System;
+
+class Program {
+    public static double CalculateAverage(int[] input) {
+        double sum = 0;
+        foreach (int number in input) {
+            sum += number;
+        }
+
+        return sum / input.Length;
+    }
+    public static double CalculateAverage(double[] input) {
+        double sum = 0;
+        foreach (double number in input) {
+            sum += number;
+        }
+
+        return sum / input.Length;
+    }
+
+    public static void Main(string[] args) {
+        int[] someInts = new int[] { 10, 20, 33, 40, 50 };
+        double[] someDoubles = new double[] { 15.25, 25.75, 35.5, 45.1 };
+
+        double someIntsAverage = CalculateAverage(someInts);
+        double someDoublesAverage = CalculateAverage(someDoubles);
+
+        Console.WriteLine($"Average of someInts: {someIntsAverage}");
+        Console.WriteLine($"Average of someDoubles: {someDoublesAverage}");
     }
 }
 ```
