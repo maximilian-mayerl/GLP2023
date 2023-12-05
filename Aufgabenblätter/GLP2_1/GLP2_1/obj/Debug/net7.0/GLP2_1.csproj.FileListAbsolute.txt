@@ -1,0 +1,15 @@
+E:\Uni\Teaching\GLP23\Aufgabenblätter\GLP2_1\GLP2_1\bin\Debug\net7.0\GLP2_1.exe
+E:\Uni\Teaching\GLP23\Aufgabenblätter\GLP2_1\GLP2_1\bin\Debug\net7.0\GLP2_1.deps.json
+E:\Uni\Teaching\GLP23\Aufgabenblätter\GLP2_1\GLP2_1\bin\Debug\net7.0\GLP2_1.runtimeconfig.json
+E:\Uni\Teaching\GLP23\Aufgabenblätter\GLP2_1\GLP2_1\bin\Debug\net7.0\GLP2_1.dll
+E:\Uni\Teaching\GLP23\Aufgabenblätter\GLP2_1\GLP2_1\bin\Debug\net7.0\GLP2_1.pdb
+E:\Uni\Teaching\GLP23\Aufgabenblätter\GLP2_1\GLP2_1\obj\Debug\net7.0\GLP2_1.csproj.AssemblyReference.cache
+E:\Uni\Teaching\GLP23\Aufgabenblätter\GLP2_1\GLP2_1\obj\Debug\net7.0\GLP2_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Uni\Teaching\GLP23\Aufgabenblätter\GLP2_1\GLP2_1\obj\Debug\net7.0\GLP2_1.AssemblyInfoInputs.cache
+E:\Uni\Teaching\GLP23\Aufgabenblätter\GLP2_1\GLP2_1\obj\Debug\net7.0\GLP2_1.AssemblyInfo.cs
+E:\Uni\Teaching\GLP23\Aufgabenblätter\GLP2_1\GLP2_1\obj\Debug\net7.0\GLP2_1.csproj.CoreCompileInputs.cache
+E:\Uni\Teaching\GLP23\Aufgabenblätter\GLP2_1\GLP2_1\obj\Debug\net7.0\GLP2_1.dll
+E:\Uni\Teaching\GLP23\Aufgabenblätter\GLP2_1\GLP2_1\obj\Debug\net7.0\refint\GLP2_1.dll
+E:\Uni\Teaching\GLP23\Aufgabenblätter\GLP2_1\GLP2_1\obj\Debug\net7.0\GLP2_1.pdb
+E:\Uni\Teaching\GLP23\Aufgabenblätter\GLP2_1\GLP2_1\obj\Debug\net7.0\GLP2_1.genruntimeconfig.cache
+E:\Uni\Teaching\GLP23\Aufgabenblätter\GLP2_1\GLP2_1\obj\Debug\net7.0\ref\GLP2_1.dll
