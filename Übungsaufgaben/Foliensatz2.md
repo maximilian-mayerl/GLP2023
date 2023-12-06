@@ -134,3 +134,60 @@ class Program {
     }
 }
 ```
+
+## Übung 5 - Enums
+
+> Fügen Sie das Direction-Enum hinzu und implementieren Sie eine Walk-Methode in Ihrer Enemy-Klasse.
+
+```csharp
+enum Direction {
+    Up = 8,
+    Right = 6,
+    Down = 2,
+    Left = 4
+}
+
+class Position {
+    public int X { get; set; }
+    public int Y { get; set; }
+}
+
+class Enemy {
+    public Position Position { get; set; } = new Position();
+
+    public void Walk(Direction direction) {
+        switch (direction) {
+            case Direction.Up:
+                this.Position.Y -= 1;
+                break;
+            case Direction.Down:
+                this.Position.Y += 1;
+                break;
+            case Direction.Left:
+                this.Position.X -= 1;
+                break;
+            case Direction.Right:
+                this.Position.X += 1;
+                break;
+        }
+    }
+}
+
+class Program {
+    public static void Main(string[] args) {
+        Enemy enemy = new Enemy();
+
+        Console.WriteLine($"Enemy at ({enemy.Position.X}, {enemy.Position.Y})");
+        enemy.Walk(Direction.Up);
+        Console.WriteLine($"Enemy at ({enemy.Position.X}, {enemy.Position.Y})");
+        enemy.Walk(Direction.Right);
+        enemy.Walk(Direction.Right);
+        Console.WriteLine($"Enemy at ({enemy.Position.X}, {enemy.Position.Y})");
+        enemy.Walk(Direction.Down);
+        Console.WriteLine($"Enemy at ({enemy.Position.X}, {enemy.Position.Y})");
+        enemy.Walk(Direction.Left);
+        enemy.Walk(Direction.Left);
+        Console.WriteLine($"Enemy at ({enemy.Position.X}, {enemy.Position.Y})");
+    }
+}
+```
