@@ -1,0 +1,15 @@
+E:\Uni\Teaching\GLP23\Aufgabenblätter\GLP3\GLP3\bin\Debug\net7.0\GLP3.exe
+E:\Uni\Teaching\GLP23\Aufgabenblätter\GLP3\GLP3\bin\Debug\net7.0\GLP3.deps.json
+E:\Uni\Teaching\GLP23\Aufgabenblätter\GLP3\GLP3\bin\Debug\net7.0\GLP3.runtimeconfig.json
+E:\Uni\Teaching\GLP23\Aufgabenblätter\GLP3\GLP3\bin\Debug\net7.0\GLP3.dll
+E:\Uni\Teaching\GLP23\Aufgabenblätter\GLP3\GLP3\bin\Debug\net7.0\GLP3.pdb
+E:\Uni\Teaching\GLP23\Aufgabenblätter\GLP3\GLP3\obj\Debug\net7.0\GLP3.csproj.AssemblyReference.cache
+E:\Uni\Teaching\GLP23\Aufgabenblätter\GLP3\GLP3\obj\Debug\net7.0\GLP3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Uni\Teaching\GLP23\Aufgabenblätter\GLP3\GLP3\obj\Debug\net7.0\GLP3.AssemblyInfoInputs.cache
+E:\Uni\Teaching\GLP23\Aufgabenblätter\GLP3\GLP3\obj\Debug\net7.0\GLP3.AssemblyInfo.cs
+E:\Uni\Teaching\GLP23\Aufgabenblätter\GLP3\GLP3\obj\Debug\net7.0\GLP3.csproj.CoreCompileInputs.cache
+E:\Uni\Teaching\GLP23\Aufgabenblätter\GLP3\GLP3\obj\Debug\net7.0\GLP3.dll
+E:\Uni\Teaching\GLP23\Aufgabenblätter\GLP3\GLP3\obj\Debug\net7.0\refint\GLP3.dll
+E:\Uni\Teaching\GLP23\Aufgabenblätter\GLP3\GLP3\obj\Debug\net7.0\GLP3.pdb
+E:\Uni\Teaching\GLP23\Aufgabenblätter\GLP3\GLP3\obj\Debug\net7.0\GLP3.genruntimeconfig.cache
+E:\Uni\Teaching\GLP23\Aufgabenblätter\GLP3\GLP3\obj\Debug\net7.0\ref\GLP3.dll
