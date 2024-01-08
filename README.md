@@ -18,3 +18,6 @@ Dieses Repository enthält Musterlösungen etc. zu den diversen Übungsaufgaben 
     - [Aufgabe 2](Aufgabenblätter/GLP2_2)
 * Aufgabenblatt 3
     - [Aufgabe 1 und 2](Aufgabenblätter/GLP3)
+* Aufgabenblatt 4
+    - [Aufgabe 1](Aufgabenblätter/GLP4)
+    - [Aufgabe 2](Aufgabenblätter/GLP4_2)

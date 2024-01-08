@@ -1,0 +1,15 @@
+E:\Uni\Teaching\GLP23\Aufgabenblätter\GLP4_2\GLP4_2\bin\Debug\net8.0\GLP4_2.exe
+E:\Uni\Teaching\GLP23\Aufgabenblätter\GLP4_2\GLP4_2\bin\Debug\net8.0\GLP4_2.deps.json
+E:\Uni\Teaching\GLP23\Aufgabenblätter\GLP4_2\GLP4_2\bin\Debug\net8.0\GLP4_2.runtimeconfig.json
+E:\Uni\Teaching\GLP23\Aufgabenblätter\GLP4_2\GLP4_2\bin\Debug\net8.0\GLP4_2.dll
+E:\Uni\Teaching\GLP23\Aufgabenblätter\GLP4_2\GLP4_2\bin\Debug\net8.0\GLP4_2.pdb
+E:\Uni\Teaching\GLP23\Aufgabenblätter\GLP4_2\GLP4_2\obj\Debug\net8.0\GLP4_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Uni\Teaching\GLP23\Aufgabenblätter\GLP4_2\GLP4_2\obj\Debug\net8.0\GLP4_2.AssemblyInfoInputs.cache
+E:\Uni\Teaching\GLP23\Aufgabenblätter\GLP4_2\GLP4_2\obj\Debug\net8.0\GLP4_2.AssemblyInfo.cs
+E:\Uni\Teaching\GLP23\Aufgabenblätter\GLP4_2\GLP4_2\obj\Debug\net8.0\GLP4_2.csproj.CoreCompileInputs.cache
+E:\Uni\Teaching\GLP23\Aufgabenblätter\GLP4_2\GLP4_2\obj\Debug\net8.0\GLP4_2.sourcelink.json
+E:\Uni\Teaching\GLP23\Aufgabenblätter\GLP4_2\GLP4_2\obj\Debug\net8.0\GLP4_2.dll
+E:\Uni\Teaching\GLP23\Aufgabenblätter\GLP4_2\GLP4_2\obj\Debug\net8.0\refint\GLP4_2.dll
+E:\Uni\Teaching\GLP23\Aufgabenblätter\GLP4_2\GLP4_2\obj\Debug\net8.0\GLP4_2.pdb
+E:\Uni\Teaching\GLP23\Aufgabenblätter\GLP4_2\GLP4_2\obj\Debug\net8.0\GLP4_2.genruntimeconfig.cache
+E:\Uni\Teaching\GLP23\Aufgabenblätter\GLP4_2\GLP4_2\obj\Debug\net8.0\ref\GLP4_2.dll
